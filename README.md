@@ -4,3 +4,8 @@ Implementing Symbolic Aggregate approXimation to find the error rate and accurac
 Run every file except Train_set and Test_accuracy
 Then select the path of the Dataset and copy-paste the path in the train_set, and run.
 Do the same in test_accuracy and run it.
+
+References:
+https://github.com/seninp/saxpy
+
+
